@@ -1,4 +1,6 @@
 # QR_Code_Generator
+![image](https://github.com/gautam899/QR_Code_Generator/assets/124019261/25bd49de-2001-40cf-b3d8-0464827c8109)
+
 This small project generates a QR code from the user-entered URL.
 # Prerequisite
 You must have node js installed on your system.
